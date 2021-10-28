@@ -7,11 +7,12 @@
 함께 발전하겠습니다.
 <br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=etlaou)](https://velog.io/@orpsh1941) 
-<a href="https://www.notion.so/Github-Blog-9e4a9270966749e5871048f9184ae785" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=EFEFEF"/></a>
+<brs/>
+<a href="https://www.notion.so/Github-Blog-9e4a9270966749e5871048f9184ae785" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=social&logo=notion&logoColor=EFEFEF"/></a>
 
 
 💡Back-End<br/>
-💡Cloud<br/>
+💡Cloud<br/>s
 💡DevOps<br/>
 💡Kubernetes
 <br/>
